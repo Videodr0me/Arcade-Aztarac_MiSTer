@@ -1,0 +1,10 @@
+/simulation/
+/sim/
+/Artwork/
+/build_id.v
+/db/
+/incremental_db/
+/output_files/
+/greybox_tmp/
+/c5_pin_model_dump.txt
+*.qws

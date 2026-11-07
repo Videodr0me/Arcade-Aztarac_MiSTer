@@ -1,0 +1,2 @@
+# The game uses CLK_50M directly; files.qip supplies the renderer PLL.
+# Keep this framework-required QIP without adding a duplicate clock source.

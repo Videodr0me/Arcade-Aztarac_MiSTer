@@ -1,0 +1,13 @@
+Aztarac MiSTer contains separately licensed components:
+
+- New Aztarac integration and board implementation: GPL-3.0-or-later.
+- Vector framebuffer and presentation by Videodr0me: GPL-3.0.
+- fx68k by Jorge Cwik: GPL-3.0-or-later, see rtl/cpu/fx68k.
+- Spectrum T80 by Daniel Wallner, Sorgelig and contributors: BSD-3-Clause,
+  see licenses/BSD-3-Clause-T80.txt and rtl/cpu/t80 source headers.
+- JT49 by Jose Tejada: GPL-3.0-or-later, see rtl/jt49.
+- Copied MiSTer framework: component licenses in sys source headers.
+- MAME behavioral reference by Mathis Rosenhauer: BSD-3-Clause.
+
+The combined core is distributed under GPL version 3 with the component
+notices retained. Full GPL texts and the MAME and T80 BSD notices are in licenses/.
